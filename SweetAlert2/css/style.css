@@ -1,0 +1,12 @@
+.cuerpo{
+    background-color: rgb(59, 88, 88);
+}
+
+.contenedor div{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 15px;
+}
+
+  
